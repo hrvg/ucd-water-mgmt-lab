@@ -1,2 +1,21 @@
-# ucd-water-mgmt-lab
-Water Management Lab from University of California, Davis
+# Water Management Lab - University of California, Davis
+
+This repository is a meta-repository keeping track of the different repository owned and management by the folks in the [UC Davis Water Management Lab](http://watermanagement.ucdavis.edu/).
+
+## Projects
+
+- [Environmental Flows](https://github.com/hrvg/ucd-eflow)
+
+## People
+
+- [Colin Byrne](https://github.com/colinfb)
+- [Hervé Guillon](https://github.com/hrvg)
+- [Belize Lane](https://github.com/bellearela)
+- [Jose Pablo Ortiz Partida](https://github.com/joportiz)
+- [Noelle Patterson](https://github.com/NoellePatterson)
+- [Leo Qiu](https://github.com/leogoesger/)
+- [Sam Sandoval-Solis](https://github.com/samsandoval)
+
+## Resources
+
+- [Short intro to git](https://github.com/hrvg/howto-git)
