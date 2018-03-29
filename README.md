@@ -1,6 +1,6 @@
 # Water Management Lab - University of California, Davis
 
-This repository is a meta-repository keeping track of the different repository owned and management by the folks in the [UC Davis Water Management Lab](http://watermanagement.ucdavis.edu/).
+This repository is a meta-repository keeping track of the different repository owned and managed by the folks at the [UC Davis Water Management Lab](http://watermanagement.ucdavis.edu/).
 
 ## Projects
 
