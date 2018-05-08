@@ -19,3 +19,4 @@ This repository is a meta-repository keeping track of the different repository o
 ## Resources
 
 - [Short intro to git](https://github.com/hrvg/howto-git)
+- [2018 Lab Retreat Hangman game](https://github.com/leogoesger/labRetreatHangMan)
