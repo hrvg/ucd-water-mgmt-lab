@@ -15,6 +15,7 @@ This repository is a meta-repository keeping track of the different repository o
 - [Noelle Patterson](https://github.com/NoellePatterson)
 - [Leo Qiu](https://github.com/leogoesger/)
 - [Sam Sandoval-Solis](https://github.com/samsandoval)
+- [Romina Diaz Gomez](https://github.com/Romidg)
 
 ## Resources
 
