@@ -9,14 +9,15 @@ This repository is a meta-repository keeping track of the different repository o
 ## People
 
 - [Colin Byrne](https://github.com/colinfb)
+- [Romina Diaz Gomez](https://github.com/Romidg)
+- [Laura Garza](https://github.com/Laugarza)
 - [Hervé Guillon](https://github.com/hrvg)
 - [Belize Lane](https://github.com/bellearela)
 - [Jose Pablo Ortiz Partida](https://github.com/joportiz)
 - [Noelle Patterson](https://github.com/NoellePatterson)
 - [Leo Qiu](https://github.com/leogoesger/)
 - [Sam Sandoval-Solis](https://github.com/samsandoval)
-- [Romina Diaz Gomez](https://github.com/Romidg)
-- [Laura Garza](https://github.com/Laugarza)
+
 
 ## Resources
 
