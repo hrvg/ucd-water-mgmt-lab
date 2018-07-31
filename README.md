@@ -16,6 +16,7 @@ This repository is a meta-repository keeping track of the different repository o
 - [Leo Qiu](https://github.com/leogoesger/)
 - [Sam Sandoval-Solis](https://github.com/samsandoval)
 - [Romina Diaz Gomez](https://github.com/Romidg)
+- [Laura Garza](https://github.com/Laugarza)
 
 ## Resources
 
